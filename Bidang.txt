@@ -1,0 +1,7 @@
+B001 Dataanalyst
+B002 UI/UX
+B003 Frontend
+B004 Backend
+B005 Fullstak
+B006 Corporatee
+#### ####

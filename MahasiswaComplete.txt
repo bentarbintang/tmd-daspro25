@@ -1,0 +1,8 @@
+M001 Umeir Top2_CSPC Backend Bekasi
+M002 Bentar Top1_CSPC UI/UX Bangka
+M002 Rian Top1_CSPC Dataanalyst Bekasi
+M003 Lutfi Try_Hard Corporatee Jakarta
+M004 Faridchi Top2_CSPC Dataanalyst Jakarta
+M005 Jaka Try_Hard Backend Sumedang
+M008 Bentar Top1_CSPC UI/UX Bangka
+#### #### #### #### ####

@@ -1,0 +1,8 @@
+M001 Umeir S002 B004 K2
+M002 Bentar S001 B002 K1
+M002 Rian S001 B001 K2
+M003 Lutfi S005 B006 K3
+M004 Faridchi S002 B001 K3
+M005 Jaka S005 B004 K4
+M008 Bentar S001 B002 K1
+#### #### #### #### ####
